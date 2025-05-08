@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Parnassus Project Observations Map</title>
-  <style>
-    #map { height: 80vh; width: 100%; }
-    #filters { padding: 10px; }
-  </style>
-</head>
 <body>
   <div id="filters">
     <label>Date: <select id="dateFilter"><option value="">All</option></select></label>
