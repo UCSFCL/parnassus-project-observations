@@ -1,1 +1,0 @@
-Parnassus Project Observations
